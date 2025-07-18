@@ -1,0 +1,1 @@
+# New-bigo-community-guidelines
