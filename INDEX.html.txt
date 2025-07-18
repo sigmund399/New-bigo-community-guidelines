@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bigo Live 社区公约</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+    }
+    nav {
+      width: 250px;
+      background-color: #f5f5f5;
+      padding: 20px;
+      height: 100vh;
+      overflow-y: auto;
+      position: fixed;
+    }
+    nav h2 {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+    nav a {
+      display: block;
+      margin: 8px 0;
+      color: #007BFF;
+      text-decoration: none;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    main {
+      margin-left: 270px;
+      padding: 30px;
+      max-width: 900px;
+    }
+    h1, h2, h3 {
+      color: #333;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+      margin-bottom: 30px;
+    }
+    table, th, td {
+      border: 1px solid #ccc;
+    }
+    th, td {
+      padding: 12px;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <h2>目录导航</h2>
+  <a href="#section1">一、总则与适用范围</a>
+  <a href="#section2">二、内容规范模块</a>
+  <a href="#violence">1. 暴力与犯罪</a>
+  <a href="#gambling">2. 赌博活动</a>
+  <a href="#platform">3. 平台利益</a>
+  <a href="#sexual">4. 色情与低俗</a>
+  <a href="#minor">5. 未成年保护</a>
+  <a href="#behavior">6. 行为规范</a>
+  <a href="#politics">7. 政治与宗教</a>
+  <a href="#section3">三、处罚机制说明</a>
+  <a href="#section4">四、常见问题 FAQ</a>
+</nav>
+
+<main>
+  <h1 id="section1">一、总则与适用范围</h1>
+  <p>为维护 Bigo Live 社区的秩序与健康生态，我们致力于打造一个 <strong>安全、尊重、包容</strong> 的才艺展示与互动平台。为此，Bigo Live 对所有用户行为制定以下管理规范。</p>
+  <p>本社区公约适用于所有用户、主播及内容创作者，并涵盖平台内所有内容与功能形式，包括但不限于：</p>
+  <ul>
+    <li>直播</li>
+    <li>短视频</li>
+    <li>聊天室</li>
+    <li>封面与头像</li>
+    <li>评论互动</li>
+    <li>用户资料等</li>
+  </ul>
+  <p>Bigo Live 用户需遵守所在国家/地区的法律法规，以及平台的社区管理规定。若有违反，平台有权采取包括但不限于删除违规内容、限制账号或设备登录、限制功能使用、封禁账号或设备等措施。</p>
+
+  <h1 id="section2">二、内容规范模块</h1>
+
+  <h2 id="violence">1. 暴力与犯罪</h2>
+  <ul>
+    <li>展示真实暴力、血腥场面</li>
+    <li>鼓吹或演示毒品使用、制贩</li>
+    <li>恐怖主义相关内容或威胁行为</li>
+    <li>宣传或提及自杀、自残方式</li>
+    <li>展示影视或游戏中的极端暴力片段</li>
+    <li>使用暴力引流、表演伤害行为</li>
+  </ul>
+
+  <h2 id="gambling">2. 赌博活动</h2>
+  <ul>
+    <li>任何形式的传统或虚拟博彩</li>
+    <li>引导用户参与抽奖赌博或提供投注信息</li>
+    <li>虚构的“中大奖”误导宣传</li>
+  </ul>
+
+  <h2 id="platform">3. 平台利益相关违规</h2>
+  <ul>
+    <li>误导性广告、虚假承诺</li>
+    <li>虚构身份、骗礼物</li>
+    <li>内容侵权</li>
+    <li>恶意诋毁平台或引流跳转</li>
+    <li>绕过官方系统的私下交易行为</li>
+  </ul>
+
+  <h2 id="sexual">4. 色情与低俗</h2>
+  <ul>
+    <li>裸露部位展示、挑逗姿势</li>
+    <li>穿着暴露、不符合场景规范</li>
+    <li>色情引流、外链诱导</li>
+    <li>传播色情影视片段</li>
+    <li>挑逗性言语、性交易暗示</li>
+  </ul>
+
+  <h2 id="minor">5. 未成年保护</h2>
+  <ul>
+    <li>未成年违规直播</li>
+    <li>成人账号展示未成年内容</li>
+    <li>诱导未成年参与互动</li>
+  </ul>
+
+  <h2 id="behavior">6. 行为规范</h2>
+  <ul>
+    <li>危险挑战或极端行为</li>
+    <li>展示烟酒等违禁行为</li>
+    <li>动物虐待、不当使用</li>
+    <li>人身攻击、骚扰、仇恨言论</li>
+    <li>违法交易信息传播</li>
+  </ul>
+
+  <h2 id="politics">7. 政治与宗教相关内容</h2>
+  <ul>
+    <li>敏感政治内容或人物</li>
+    <li>极端宗教言论或攻击信仰</li>
+    <li>扰乱公共秩序的言论</li>
+  </ul>
+
+  <h1 id="section3">三、处罚机制说明</h1>
+  <table>
+    <thead>
+      <tr><th>处罚类型</th><th>说明</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>限制设备登录</td><td>阻止当前设备登录平台</td></tr>
+      <tr><td>限制账号登录</td><td>禁止账户登录</td></tr>
+      <tr><td>限制直播权限</td><td>限制直播相关功能</td></tr>
+      <tr><td>限制修改资料</td><td>暂停头像、昵称修改等权限</td></tr>
+      <tr><td>限制曝光</td><td>降低推荐权重或取消推荐</td></tr>
+      <tr><td>限制发帖与评论</td><td>关闭评论、动态等互动权限</td></tr>
+      <tr><td>删除违规内容</td><td>移除违规图文或视频</td></tr>
+      <tr><td>封禁账号/设备</td><td>永久封禁违规账号及设备</td></tr>
+      <tr><td>钱包处理</td><td>冻结、清零或追回违规收益</td></tr>
+      <tr><td>其他措施</td><td>账号降权、行为标记等</td></tr>
+    </tbody>
+  </table>
+
+  <h3>申诉渠道</h3>
+  <p>如用户认为处罚存在误判，可通过平台内【申诉中心】或申诉邮箱 <strong>feedback@bigo.tv</strong> 提交申诉申请。</p>
+
+  <h1 id="section4">四、常见问题（FAQ）</h1>
+  <p><strong>Q1：</strong> 这个公约适用于哪些人？<br/> <strong>A：</strong> 所有 Bigo Live 用户，包括观众、主播、内容创作者。</p>
+  <p><strong>Q2：</strong> 哪些行为容易被封号？<br/> <strong>A：</strong> 色情暴露、暴力引流、未成年违规等，详见内容规范。</p>
+  <p><strong>Q3：</strong> 如果我被误封了怎么办？<br/> <strong>A：</strong> 可通过申诉中心提交复核申请，3个工作日内处理。</p>
+  <p><strong>Q4：</strong> 所有违规行为处罚一样吗？<br/> <strong>A：</strong> 不同违规根据严重程度采取不同措施，详见处罚机制。</p>
+
+</main>
+</body>
+</html>
